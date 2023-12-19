@@ -1,0 +1,394 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\BaiTapc#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Documents and Settings\MaiThuy\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+C:\Documents and Settings\theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+C:\Documents and Settings\Administrator\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+C:\Users\Theln\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+E:\Tai lieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\HOC TAP\Tai Lieu ki 6\Phan tich thiet ke he thong\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+H:\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+F:\THELN\QLSinhVien\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+F:\THELN\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+F:\THELN\QLSinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+F:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\ResolveAssemblyReference.cache
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\TaiLieu\LapTrinh C Sharp\Chuong trinh C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuaSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmxoaSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmBaoCao.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChiTietSinhVien.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapAdmin.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhapHeThong.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDanhSachNguoiDung.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLop.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMonHoc.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHienBaoCao.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKetQuaHocTap.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop_Khoa.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKetQua.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaKhoa.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmsuakqSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaLop.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaMonHoc.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaNguoiDung.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSuaThongTinSinhVien.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKetQua.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemKhoa.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmthemkqSV.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemLop.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemMonHoc.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmThemNguoiDung.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimSinhVien.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKetQuaHocTap.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaKhoa.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaLop.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmXoaMonHoc.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Khoa_Lop.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache

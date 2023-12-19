@@ -1,0 +1,399 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migration Report
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migration Report - QuanLySinhVien</h1><div id="content"><h2 _locID="OverviewTitle">Overview</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Project</th><th _locID="PathTableHeader">Path</th><th _locID="ErrorsTableHeader">Errors</th><th _locID="WarningsTableHeader">Warnings</th><th _locID="MessagesTableHeader">Messages</th></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Solution</span></a></strong></td><td>QuanLySinhVien.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#SolutionWarning">1</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">2</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#QuanLySinhVien">QuanLySinhVien</a></strong></td><td>QuanLySinhVien\QuanLySinhVien.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('QuanLySinhVien'); return false;">121</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Solution and projects</h2><div id="messages"><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Solution</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="WarningRowClassSolution"><td class="IconWarningEncoded"><a name="SolutionWarning" /></td><td class="messageCell"><strong>QuanLySinhVien.sln:
+        </strong><span>Visual Studio needs to make non-functional changes to this project in order to enable the project to open in released versions of Visual Studio newer than Visual Studio 2010 SP1 without impacting project behavior.</span></td></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Show 2 additional messages
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>QuanLySinhVien.sln:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien.sln</span></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>QuanLySinhVien.sln:
+        </strong><span>Solution migrated successfully</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Hide 2 additional messages
+        </a></td></tr></table><a name="QuanLySinhVien" /><h3>QuanLySinhVien</h3><table><tr id="QuanLySinhVienHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="MessageRowHeaderShowQuanLySinhVien"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="QuanLySinhVienMessage" onclick="ToggleMessageVisibility('QuanLySinhVien'); return false;">
+          Show 121 additional messages
+        </a></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\QuanLySinhVien.csproj:
+        </strong><span>Project file successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\QuanLySinhVien.csproj</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\QuanLySinhVien.csproj.user:
+        </strong><span>Project user file successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\QuanLySinhVien.csproj.user</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\BaoCaoSinhVien.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\BaoCaoSinhVien.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\DangNhapHeThong.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\DangNhapHeThong.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\DangNhapNguoiDung.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\DangNhapNguoiDung.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form1.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form1.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form1.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form1.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form2.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form2.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form2.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form2.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form3.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form3.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form3.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form3.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form4.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form4.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form4.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form4.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form5.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form5.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form5.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form5.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmBaoCao.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmBaoCao.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmBaoCao.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmBaoCao.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmChiTietSinhVien.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmChiTietSinhVien.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmChiTietSinhVien.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmChiTietSinhVien.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapAdmin.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapAdmin.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapAdmin.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapAdmin.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapHeThong.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapHeThong.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapHeThong.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapHeThong.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDanhSachNguoiDung.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDanhSachNguoiDung.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDanhSachNguoiDung.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDanhSachNguoiDung.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSLop.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSLop.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSLop.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSLop.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSMonHoc.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSMonHoc.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSMonHoc.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSMonHoc.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmHienBaoCao.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmHienBaoCao.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmHienBaoCao.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmHienBaoCao.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKetQuaHocTap.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKetQuaHocTap.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKetQuaHocTap.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKetQuaHocTap.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKhoa.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKhoa.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKhoa.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKhoa.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmLop_Khoa.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmLop_Khoa.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmLop_Khoa.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmLop_Khoa.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKetQua.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKetQua.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKetQua.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKetQua.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKhoa.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKhoa.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKhoa.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKhoa.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmsuakqSV.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmsuakqSV.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmsuakqSV.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmsuakqSV.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaLop.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaLop.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaLop.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaLop.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaMonHoc.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaMonHoc.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaMonHoc.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaMonHoc.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaNguoiDung.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaNguoiDung.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaNguoiDung.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaNguoiDung.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaThongTinSinhVien.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaThongTinSinhVien.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaThongTinSinhVien.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaThongTinSinhVien.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKetQua.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKetQua.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKetQua.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKetQua.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKhoa.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKhoa.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKhoa.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKhoa.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmthemkqSV.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmthemkqSV.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmthemkqSV.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmthemkqSV.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemLop.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemLop.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemLop.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemLop.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemMonHoc.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemMonHoc.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemMonHoc.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemMonHoc.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemNguoiDung.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemNguoiDung.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemNguoiDung.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemNguoiDung.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmTimSinhVien.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmTimSinhVien.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmTimSinhVien.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmTimSinhVien.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKetQuaHocTap.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKetQuaHocTap.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKetQuaHocTap.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKetQuaHocTap.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKhoa.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKhoa.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKhoa.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKhoa.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaLop.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaLop.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaLop.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaLop.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaMonHoc.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaMonHoc.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaMonHoc.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaMonHoc.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\KetNoi.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\KetNoi.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Khoa_Lop.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Khoa_Lop.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Khoa_Lop.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Khoa_Lop.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Program.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Program.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Properties\AssemblyInfo.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Properties\AssemblyInfo.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Properties\Resources.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Properties\Resources.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Properties\Settings.Designer.cs:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Properties\Settings.Designer.cs</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\app.config:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\app.config</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Properties\Settings.settings:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Properties\Settings.settings</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\BaoCaoSinhVien.rpt:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\BaoCaoSinhVien.rpt</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form1.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form1.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form2.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form2.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form3.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form3.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form4.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form4.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Form5.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Form5.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmBaoCao.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmBaoCao.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmChiTietSinhVien.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmChiTietSinhVien.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapAdmin.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapAdmin.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDangNhapHeThong.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDangNhapHeThong.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDanhSachNguoiDung.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDanhSachNguoiDung.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSLop.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSLop.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmDSMonHoc.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmDSMonHoc.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmHienBaoCao.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmHienBaoCao.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKetQuaHocTap.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKetQuaHocTap.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmKhoa.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmKhoa.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmLop_Khoa.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmLop_Khoa.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKetQua.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKetQua.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaKhoa.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaKhoa.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmsuakqSV.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmsuakqSV.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaLop.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaLop.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaMonHoc.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaMonHoc.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaNguoiDung.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaNguoiDung.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmSuaThongTinSinhVien.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmSuaThongTinSinhVien.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKetQua.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKetQua.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemKhoa.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemKhoa.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmthemkqSV.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmthemkqSV.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemLop.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemLop.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemMonHoc.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemMonHoc.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmThemNguoiDung.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmThemNguoiDung.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmTimSinhVien.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmTimSinhVien.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKetQuaHocTap.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKetQuaHocTap.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaKhoa.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaKhoa.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaLop.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaLop.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\frmXoaMonHoc.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\frmXoaMonHoc.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Khoa_Lop.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Khoa_Lop.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\Properties\Resources.resx:
+        </strong><span>File successfully backed up as D:\QuanLySinhVien_www.kgcc.tk\QuanLySinhVien\Backup\QuanLySinhVien\Properties\Resources.resx</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\QuanLySinhVien.csproj:
+        </strong><span>Project migrated successfully</span></td></tr><tr name="MessageRowClassQuanLySinhVien" style="display: none"><td class="IconInfoEncoded"><a name="QuanLySinhVienMessage" /></td><td class="messageCell"><strong>QuanLySinhVien\QuanLySinhVien.csproj:
+        </strong><span>Scan complete: Migration not required for project files.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideQuanLySinhVien"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="QuanLySinhVienMessage" onclick="ToggleMessageVisibility('QuanLySinhVien'); return false;">
+          Hide 121 additional messages
+        </a></td></tr></table></div></div></body></html>
